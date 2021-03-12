@@ -1,6 +1,7 @@
 module.exports = {
     title: 'Deep Learning',
     description: 'Just playing around',
+    dest:'.vuepress/../dp-dist',
     themeConfig: {
         nav: [
             { text: '笔记', link: '/note/chapter2/concept' },
