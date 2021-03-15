@@ -23,7 +23,10 @@ module.exports = {
                 },
                 {
                     title: '第三章',
-                    children: [ /* ... */ ],
+                    children: [
+                        '/note/chapter3/expect',
+                        '/note/chapter3/imageModel',
+                    ],
                     initialOpenGroupIndex: -1 // 可选的, 默认值是 0
                 }
             ]
