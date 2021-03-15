@@ -28,6 +28,14 @@ module.exports = {
                         '/note/chapter3/imageModel',
                     ],
                     initialOpenGroupIndex: -1 // 可选的, 默认值是 0
+                },
+                {
+                    title: '第四章',
+                    children: [
+                        '/note/chapter4/dataFlow',
+
+                    ],
+                    initialOpenGroupIndex: -1 // 可选的, 默认值是 0
                 }
             ]
         }

@@ -34,3 +34,9 @@
 ![](./pic/expect/6.jpg)
 
 可见，协方差矩阵是一个对称的矩阵，而且对角线是各个维度上的方差。
+
+
+
+---
+原文： [点击跳转](https://blog.csdn.net/xiao_lxl/article/details/72730000)
+
